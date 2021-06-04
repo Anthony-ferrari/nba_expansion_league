@@ -1,18 +1,18 @@
 # nba_expansion_league
 
 ### What is it
--[x] Deployed a RESTless API to the Google Cloud Platform (GCP) allowing users to create nba expansion leagues and giving them full control of creation and placement of players, teams, and owners. 
--[x] Utilized Google Oauth 2.0 for authentication/authorization and user/owner entity creation in GCP's Datastore.
--[x] Tested the CRUD operations for all entities using Postman collections and environment. 
--[x] Refined data-model to include entity links for easy viewing and documented all API endpoints for users. 
--[x] Provided Docker file for containerization of application and a guide to on how to achieve this.  
+- [x] Deployed a RESTless API to the Google Cloud Platform (GCP) allowing users to create nba expansion leagues and giving them full control of creation and placement of players, teams, and owners. 
+- [x] Utilized Google Oauth 2.0 for authentication/authorization and user/owner entity creation in GCP's Datastore.
+- [x] Tested the CRUD operations for all entities using Postman collections and environment. 
+- [x] Refined data-model to include entity links for easy viewing and documented all API endpoints for users. 
+- [x] Provided Docker file for containerization of application and a guide to on how to achieve this.  
 ### How to use 
--[x] Refer to the data-model and api documentation pdf in this repo. 
+- [x] Refer to the data-model and api documentation pdf in this repo. 
 ### GCP as PAAS (how it is right now)
--[x] We can use our deployed Google App Engine application and use GCP as a Paas
--[x] We do not get access to low level programming interfaces. 
--[x] We do not get much access to the hard drive hosting the applications. 
--[x] We do not worry about keeping hardware and OS up to date. 
+- [x] We can use our deployed Google App Engine application and use GCP as a Paas.
+- [x] We do not get access to low level programming interfaces. 
+- [x] We do not get much access to the hard drive hosting the applications. 
+- [x] We do not worry about keeping hardware and OS up to date. 
 
 ### GCP as a IAAS.
 - [x] We can use our docker file to deploy our application to a VM instance using Google Compute Engine
