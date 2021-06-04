@@ -7,6 +7,7 @@
 - [x] Refined data-model to include entity links for easy viewing and documented all API endpoints for users. 
 - [x] Provided Docker file for containerization of application and a guide to on how to achieve this.  
 ### How to use 
+- [x] You will go to the IP address/oauth go through the Google account sign in process and then get a Json Web Token to use in your authorization header when making API endpoint calls. This notifies the backend who the user is and if they can use this API. 
 - [x] Refer to the data-model and api documentation pdf in this repo. 
 ### GCP as PAAS (how it is right now)
 - [x] We can use our deployed Google App Engine application and use GCP as a Paas.
