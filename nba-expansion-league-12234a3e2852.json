@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nba-expansion-league",
+  "private_key_id": "12234a3e28529a9907650345fe661c543d894cb9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTSRAwWFSEisBU\nUzexDwtYTKZLFu5iacFv4uockqPmiAyFvS733dpjxeqDyT4gYKCHFS0y3j1aaThI\nSC0a70btSeLtv2DTA1AAuXl1CilsjzfZ3mktYunWNzAjQSPtQkQ8Z9buZqLhUD6r\n6+g7WucAbHCmNQadehfZLrITO0tVqIarv8n0RgMcX+G5zGqbZyfrLISx04DYLLiC\nqvX08irnRml9k+gvZt1HdCiH7o7EAGp9SOQcdO9yGPL7molUGR8q+IoVULtZj2dq\nACazJ39uHU90c8ocO0q5LuJCZ65YyjiYA3b3Y+jk970QqN9OoZSj1paNA8gK/He2\nnaBFBjMDAgMBAAECggEAXpnOoU7TXNsBPWBbRbA+PKVpKaLVToQag72+Y9e2ghA1\nRyZLItkXIOgrViFjazzIc2Mkbyu5ncMR269RXsd24uTbsean9CL+Daz9+Ez5+izv\n7WFbh2JL38mrCIXwj5lFkyRNREX5NNfoj7KbMwRC/NoQ4CJK2XSiu+/f9KNuWiW/\nathsYPut7ZhmeGt8uJmFML1XdYDieoXjokXJHEoypl5N/FAmd3p6wBtOHp0/2lpc\nTXQQLVymAYrpmGypJc32so0fYLC+KK0TniYjpWMUuXtPeNKKfkQISA8HdE/lICP4\n8hO3iqDdrD80NaLtNnd60DaVRKRpj6oM6KChtzQ3/QKBgQD7iSpnUqVaxwiucrsx\nQIVOoX49HNnHgxeD/ZApsTB3uQTQjZ7+vBQ1kJqteTYF8qxL8X2AXUFUxQU0KbDK\nJGFi0Ntzeecqa80tbAFhaallOCAZmz2/b/e0RlPsOfj5U2rG1Ekb6vpKqgHtuKu6\n+nd9LG6jHTTy/P0l7WkP0TGO/QKBgQDXCQXbOR1rYQYd1t6UG7ZSKzKuc26ezX7+\neMhKEnHKasoy2Fs9lOcpYum9n81H7z8dRQQNcEQez9gOpxMki4bA4TgK4QNshwvK\ni/DbdaPBWXmEqYUW4B3KGqi/oCPFTfLxy/4leoSMFlY9S/urODyGCBFuxhtMa0+Z\ncOcJn/9p/wKBgQDL3+Z1rqAFzvLzalzdU714+R437G17734c5mV11X9CWr1TSKaJ\nM+pxbA5i8q7d7U7Hkym05GEykypfmDcJ8KjajgyBMVozoQLBgRwxV5IMT4x9FL3c\nr6UnAiW9f1OUyo7uL1w+e5t47wj3JEpVF/PHij72iJLFLFcG6cHRJy6zBQKBgGuw\nnBs21lHxbDPDaQK5gixSb/ZH3u1uspvUd1IJPK2Hn62pBsCncsEaRT7u6cqNuYj6\nCFaGk8buhiCIcaDKs3ijEgL4v1M5qqEMRlpR5ums2puingFfyetuQHZ/R4rHR9Tq\nOWQhoIHbqeLWy7nq1vy0y64zTnaOA3YvwbTjSPGXAoGBAPERyMUva4QH9BYJqXZY\n3OSzw8Wo2XeNpfjxAXRugL39IGssCXMvxNWxUW9BunMc7XHpv9y3/90KJ64RU1s0\nzMZJDUP6sJCW7Ox+qF6ahnnYoSzvjKbj+BEWWrR+8OMeSf4FoXhNGK9UY8x7Of4c\nTUWLeUYjxd2yH2I6gUKjRoaS\n-----END PRIVATE KEY-----\n",
+  "client_email": "nba-e-league@nba-expansion-league.iam.gserviceaccount.com",
+  "client_id": "103898386150236268340",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nba-e-league%40nba-expansion-league.iam.gserviceaccount.com"
+}

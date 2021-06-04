@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info</title>
+</head>
+<body>
+    <section class="text-center">
+        <div class="container">
+
+            <p class="lead text-muted">Purpose of the page: </p>
+            <p class="lead text-muted">
+                If you're here it means that you have clicked on the "Google Sign In" button and you have given us access to your profile.
+                You will see your first name, last name, and your user ID value of that was used to secure the original redirect below.
+            </p>
+            <p class="lead text-muted">
+                <ul>
+                    <li>First Name: {{ first_name }}</li>
+                    <li>Last Name: {{ last_name }}</li>
+                    <li>New JWT: {{ jwt_user }}</li>
+                    <li>Unique ID: {{ unique_id }}</li>
+                </ul>
+            </p>
+        </div>
+    </section>
+    
+</body>
+</html>

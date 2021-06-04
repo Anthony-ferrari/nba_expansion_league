@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Page</title>
+</head>
+<body>
+    <section class="text-center">
+        <div class="container">
+            <h1 class="exampleHeading">Welcome to my implementation of Oauth 2.0</h1>
+            <p class="lead text-muted">Purpose of the page: </p>
+            <p class="lead text-muted"> The purpose is to be able to go through the Oauth flow so that our app is authorized to access certain parts of your Google Email profile information and obtain a JWT.</p>
+            <p class="lead text-muted">How do we do this? </p>
+            <p class="lead text-muted">
+                By clicking on the "Google Sign In" button, you will be redirected to Google's Email sign in page and then redirected back to our user info tab.
+                There you will see your first name, last name, and your user ID value of that was used to secure the original redirect. 
+            </p>
+            <p>
+                You will be able to see your new JWT generated.
+            </p>
+            <form method="GET" id="g_sign_in" action="https://nba-expansion-league.wl.r.appspot.com/infoPage">
+                <button class="g_sign_in" id="g_sign_in" name = "g_sign_in"> Google Sign In</button>
+            </form>
+        </div>
+    </section>
+</body>
+</html>
